@@ -3,7 +3,7 @@
 test line
 #### test line
 
-```bash
+```Shell
 path="var/log"
 ls -la $path
 ```
